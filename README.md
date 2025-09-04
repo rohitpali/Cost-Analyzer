@@ -1,4 +1,4 @@
-# Courier Cost Analyzer
+# Cost Analyzer
 
 A Python-based data pipeline that reconciles courier invoices against company order records to detect overcharges and undercharges.
 
